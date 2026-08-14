@@ -1,4 +1,0 @@
-# Ignore minimal Python artifacts
-.env
-__pycache__/
-*.pyc
