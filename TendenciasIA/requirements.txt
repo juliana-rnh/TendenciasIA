@@ -1,0 +1,4 @@
+# Dependências do projeto
+google-genai
+tavily-python
+requests
