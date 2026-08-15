@@ -4,3 +4,7 @@ Bug0
 TestZeus Hercules
 Bolt.new
 coverage-guard
+Thunders
+Momentic
+Autonoma
+Windsurf
