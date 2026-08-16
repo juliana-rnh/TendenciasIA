@@ -8,3 +8,7 @@ Thunders
 Momentic
 Autonoma
 Windsurf
+QA.tech
+Replit
+v0 by Vercel
+Lovable
