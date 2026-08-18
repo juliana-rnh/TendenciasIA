@@ -10,7 +10,7 @@ PROMPT_AGENTE = """
 You are a cutting-edge AI Trend Scout specialized in Software Quality Assurance (QA) and Engineering Productivity.
 Your objective is to filter the provided web search results to find emerging, trending, and next-generation AI tools.
 
-CRITICAL INSTRUCTION: Do NOT include any tools that are listed in the "EXCLUDED_TOOLS_HISTORIC" section below. Focus strictly on newer trends or alternative platforms to ensure high-value novelty.
+CRITICAL INSTRUCTION: Do NOT include any tools that are listed in the "EXCLUDED_TOOLS_HISTORIC" section below. Focus strictly on newer trends or alternative platforms to ensure high-value novelty.[...]
 
 OUTPUT STRUCTURE:
 Generate a highly scannable daily brief formatted exactly as follows in Portuguese:
@@ -69,13 +69,21 @@ def enviar_para_discord(texto_formatado):
     import requests
     payload = {"content": "📢 **Boletim Diário: Tendências de IA** 🚀", "embeds": [{"description": texto_formatado, "color": 3447003}]}
     if "SEU_WEBHOOK" not in DISCORD_WEBHOOK_URL:
-        requests.post(DISCORD_WEBHOOK_URL, json=payload)
+        try:
+            response = requests.post(DISCORD_WEBHOOK_URL, json=payload)
+            response.raise_for_status()
+            print("✅ Notificação enviada para Discord!")
+        except Exception as e:
+            print(f"⚠️ Erro ao enviar para Discord: {e}")
 
 if __name__ == "__main__":
     ferramentas_antigas = []
     if os.path.exists("historico.txt"):
-        with open("historico.txt", "r", encoding="utf-8") as f:
-            ferramentas_antigas = [linha.strip() for lambda_line in f.readlines() if (linha := lambda_line.strip())]
+        try:
+            with open("historico.txt", "r", encoding="utf-8") as f:
+                ferramentas_antigas = [linha.strip() for linha in f.readlines() if linha.strip()]
+        except Exception as e:
+            print(f"⚠️ Erro ao ler histórico: {e}")
 
     try:
         dados_da_web = buscar_tendencias_ia()
@@ -85,3 +93,5 @@ if __name__ == "__main__":
         print("🚀 Agente executado com sucesso!")
     except Exception as e:
         print(f"💥 Erro: {e}")
+        import traceback
+        traceback.print_exc()
