@@ -38,3 +38,9 @@ Magnitude
 agent-check
 recon
 vishot
+Trae
+PlayCode
+GitAuto
+AgentDiff
+Agent QA
+Panto AI
