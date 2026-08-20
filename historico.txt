@@ -44,3 +44,11 @@ GitAuto
 AgentDiff
 Agent QA
 Panto AI
+Claude Code
+Revyl
+QualGent
+DevAssure
+Codex 3.0 by OpenAI
+Kimi Code
+Kiru
+OpenCode 🆕
