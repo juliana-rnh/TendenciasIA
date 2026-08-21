@@ -52,3 +52,6 @@ Codex 3.0 by OpenAI
 Kimi Code
 Kiru
 OpenCode 🆕
+GitHub Copilot
+Hostinger Horizons
+Base44
