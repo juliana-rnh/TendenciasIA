@@ -60,3 +60,12 @@ Drizz
 MobileBoost
 Heal.dev
 Nyx
+Gemini Code Assist
+BrainGrid
+Claude Agent SDK
+OpenHands
+Aider
+SWE-Agent
+Cline
+Goose
+Parano.ai
