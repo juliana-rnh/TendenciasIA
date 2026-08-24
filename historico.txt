@@ -69,3 +69,6 @@ SWE-Agent
 Cline
 Goose
 Parano.ai
+Manus
+Exody
+FetchSandbox
