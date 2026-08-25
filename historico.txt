@@ -72,3 +72,6 @@ Parano.ai
 Manus
 Exody
 FetchSandbox
+Figma Make
+CoTester AI Software Testing Agent
+testRigor
