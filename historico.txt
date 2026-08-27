@@ -75,3 +75,7 @@ FetchSandbox
 Figma Make
 CoTester AI Software Testing Agent
 testRigor
+Testim AI
+Katalon
+AURA by Sauce Labs
+Autify Aximo
