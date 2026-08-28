@@ -79,3 +79,7 @@ Testim AI
 Katalon
 AURA by Sauce Labs
 Autify Aximo
+BotGauge
+Softr
+Lightfield
+Amazon Q Developer
