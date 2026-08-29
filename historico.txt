@@ -83,3 +83,4 @@ BotGauge
 Softr
 Lightfield
 Amazon Q Developer
+Zeb
