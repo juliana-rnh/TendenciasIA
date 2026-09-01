@@ -87,3 +87,9 @@ Zeb
 ACCELQ Autopilot
 VibeEval
 Origin
+Testsigma
+Testomat.io MCP
+OpenAI’s Operator
+ChatGPT Atlas Agent Mode
+n8n
+CerebrasCoder
