@@ -93,3 +93,5 @@ OpenAI’s Operator
 ChatGPT Atlas Agent Mode
 n8n
 CerebrasCoder
+Newly
+Kiro
