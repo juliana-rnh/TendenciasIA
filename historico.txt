@@ -95,3 +95,4 @@ n8n
 CerebrasCoder
 Newly
 Kiro
+Ranger
