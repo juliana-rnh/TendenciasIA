@@ -104,3 +104,6 @@ Rainforest QA
 Google Stitch
 Edgee
 OpenRouter
+Nexpath
+Totalum
+Spur
