@@ -107,3 +107,5 @@ OpenRouter
 Nexpath
 Totalum
 Spur
+Abordagem de QA Autônomo Agêntico
+Vibe Coding (Metodologia de Desenvolvimento)
