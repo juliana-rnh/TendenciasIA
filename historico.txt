@@ -109,3 +109,6 @@ Totalum
 Spur
 Abordagem de QA Autônomo Agêntico
 Vibe Coding (Metodologia de Desenvolvimento)
+Grok Build
+GPT Agent
+Command Code
