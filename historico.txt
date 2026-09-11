@@ -114,3 +114,4 @@ GPT Agent
 Command Code
 TestBooster.ai
 VibeEval
+QA Autônomo Nativo de Agentes
