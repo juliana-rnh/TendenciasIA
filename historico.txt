@@ -116,3 +116,19 @@ TestBooster.ai
 VibeEval
 QA Autônomo Nativo de Agentes
 AWS AI-DLC v2
+Rova AI
+Vibe Coder
+Zapier MCP
+Mintlify Editor
+Wispr Flow Notetaker
+Agent Hub Builder
+fileAI AI OCR
+gptengineer.app
+Polygraph
+HarnessRouter Community Edition
+Vokal
+AgentAuth
+Crono 2.0
+Timeless
+Sequence Agentic
+PromptURLs
