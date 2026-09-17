@@ -132,3 +132,5 @@ Crono 2.0
 Timeless
 Sequence Agentic
 PromptURLs
+BearQ
+Nexpath
