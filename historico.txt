@@ -139,3 +139,8 @@ k6 2.0 (com AI Subcommands Nativos)
 Gatling AI Assistant
 Gatling AI Insights
 Claude Memory
+vibra-code
+ocode
+neuralinverse
+gpt-all-star
+Bullet
