@@ -144,3 +144,7 @@ ocode
 neuralinverse
 gpt-all-star
 Bullet
+Blitzy
+Builder.io Fusion
+CalEx-JavaAI
+herm
