@@ -148,3 +148,5 @@ Blitzy
 Builder.io Fusion
 CalEx-JavaAI
 herm
+Qodo
+CodeRabbit
