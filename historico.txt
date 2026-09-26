@@ -152,3 +152,4 @@ Qodo
 CodeRabbit
 Heal My Prompt
 Price My Agent
+Warp
