@@ -153,3 +153,4 @@ CodeRabbit
 Heal My Prompt
 Price My Agent
 Warp
+KaneAI
