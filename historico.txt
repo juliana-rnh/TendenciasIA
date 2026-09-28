@@ -154,3 +154,5 @@ Heal My Prompt
 Price My Agent
 Warp
 KaneAI
+Scandium
+UiPath Cartographer
