@@ -156,3 +156,5 @@ Warp
 KaneAI
 Scandium
 UiPath Cartographer
+Scout QA
+Relevance AI Invent 2.0
