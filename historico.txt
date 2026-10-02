@@ -158,3 +158,5 @@ Scandium
 UiPath Cartographer
 Scout QA
 Relevance AI Invent 2.0
+mabl
+Rihario
