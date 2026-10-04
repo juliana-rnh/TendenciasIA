@@ -162,3 +162,5 @@ mabl
 Rihario
 testdart
 Moonshot AI
+Confident AI
+Latitude
