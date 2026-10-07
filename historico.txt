@@ -166,3 +166,6 @@ Confident AI
 Latitude
 NivKode
 TestMax AI
+DeepSeek-Math-V2
+Latitude
+Klarent
