@@ -170,3 +170,5 @@ DeepSeek-Math-V2
 Latitude
 Klarent
 Atto
+Vibe Studio
+Agent Assurance (uma nova oferta de TestMu AI)
