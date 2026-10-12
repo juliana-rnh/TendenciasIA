@@ -176,3 +176,7 @@ Hostinger AI Builder
 Continue
 CrewAI
 Maybe\
+QApilot
+DeepEval
+RAGAS
+Garak
