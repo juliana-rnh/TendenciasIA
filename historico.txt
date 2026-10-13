@@ -180,3 +180,9 @@ QApilot
 DeepEval
 RAGAS
 Garak
+qaskills
+TwitterAPIs (para Agentes de IA)
+DeepLedger
+BrainGrid
+Sentry
+Seer
