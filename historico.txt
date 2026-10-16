@@ -189,3 +189,6 @@ Seer
 DeepInfra
 Apify 2
 TheVibeSecurity
+AppGrowthKit
+Bolt by Sparcle
+AI Video Text Remover
