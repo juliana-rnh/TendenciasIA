@@ -192,3 +192,6 @@ TheVibeSecurity
 AppGrowthKit
 Bolt by Sparcle
 AI Video Text Remover
+HiTest
+Kilo
+Diffblue
