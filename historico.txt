@@ -200,3 +200,6 @@ Jules
 KaneAI by TestMu AI
 Applitools
 Stagebreak
+AI-Watch-Tester
+llm-test-case-generator
+CatDoes
