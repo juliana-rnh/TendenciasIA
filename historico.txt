@@ -203,3 +203,4 @@ Stagebreak
 AI-Watch-Tester
 llm-test-case-generator
 CatDoes
+Laravel AI SDK v1.0
