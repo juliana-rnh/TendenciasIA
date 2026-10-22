@@ -204,3 +204,7 @@ AI-Watch-Tester
 llm-test-case-generator
 CatDoes
 Laravel AI SDK v1.0
+Swarmcheck
+Tencent WeTest AI Test Agents
+Google Cloud Protocol-Native Agent Gateway
+Greenlight Scan
