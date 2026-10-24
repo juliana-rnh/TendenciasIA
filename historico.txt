@@ -211,3 +211,4 @@ Greenlight Scan
 Swarmcheck
 Taskade Genesis
 TesterArmy
+Spur
