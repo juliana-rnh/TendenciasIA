@@ -212,3 +212,8 @@ Swarmcheck
 Taskade Genesis
 TesterArmy
 Spur
+Harness2 framework
+Mistral Vibe CLI
+Crush
+Navige
+Hermes Desktop
