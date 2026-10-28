@@ -223,3 +223,9 @@ Functionize Studio
 Durable
 Framer
 QualNetics.AI
+HyperExecute
+AIdrivenTesting.ai
+Mage
+Shakespeare
+Manifest.build
+KushoAI
