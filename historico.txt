@@ -229,3 +229,5 @@ Mage
 Shakespeare
 Manifest.build
 KushoAI
+LangChain
+LlamaIndex
