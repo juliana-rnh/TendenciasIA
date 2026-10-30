@@ -231,3 +231,4 @@ Manifest.build
 KushoAI
 LangChain
 LlamaIndex
+TestSprite
