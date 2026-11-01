@@ -239,3 +239,4 @@ Terms Packs
 Countersign
 WISMind.AI
 PentestMCP
+Supermaven
