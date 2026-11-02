@@ -240,3 +240,5 @@ Countersign
 WISMind.AI
 PentestMCP
 Supermaven
+Rork
+Anything.ai
