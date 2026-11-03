@@ -242,3 +242,7 @@ PentestMCP
 Supermaven
 Rork
 Anything.ai
+UiPath Agentic Testing
+Agentiqa
+GPT Driver
+TestSprite
