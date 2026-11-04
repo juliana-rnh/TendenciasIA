@@ -246,3 +246,5 @@ UiPath Agentic Testing
 Agentiqa
 GPT Driver
 TestSprite
+ARTEX
+pentagi
