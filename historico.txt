@@ -248,3 +248,9 @@ GPT Driver
 TestSprite
 ARTEX
 pentagi
+Google AI Studio
+Claude Design
+redu.cloud
+Backenly
+diff-tour
+Vapi
