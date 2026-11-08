@@ -256,3 +256,5 @@ diff-tour
 Vapi
 Poolside
 VULKEU
+Muse Spark 1.2
+Muse Code
