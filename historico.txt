@@ -263,3 +263,6 @@ AWS Bedrock Agents
 Create.xyz
 Databutton
 Fastshot
+Codeium
+StackBlitz
+Anthropic Claude 3.5 Sonnet (com Artifact)
