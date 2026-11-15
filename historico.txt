@@ -269,3 +269,5 @@ Anthropic Claude 3.5 Sonnet (com Artifact)
 Lovable
 Salesforce Agentforce
 Microsoft Copilot Studio
+Poolside
+Rork
