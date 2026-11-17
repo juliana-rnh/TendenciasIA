@@ -272,3 +272,5 @@ Microsoft Copilot Studio
 Poolside
 Rork
 Make
+Vibecode
+Hallmark
