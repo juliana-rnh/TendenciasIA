@@ -274,3 +274,7 @@ Rork
 Make
 Vibecode
 Hallmark
+Parasoft's Agentic AI for C/C++ Testing
+Maestro
+Amikoo
+Autify Nexus
