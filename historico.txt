@@ -278,3 +278,5 @@ Parasoft's Agentic AI for C/C++ Testing
 Maestro
 Amikoo
 Autify Nexus
+Checksum
+Composer
