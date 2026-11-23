@@ -280,3 +280,6 @@ Amikoo
 Autify Nexus
 Checksum
 Composer
+Checksum
+Appvance IQ
+Amp
