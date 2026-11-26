@@ -288,3 +288,9 @@ Strix
 OpenResearch
 Redproof
 ModelBrain
+Trae
+PAN 2
+mureev/mac-terminal-mcp
+drgost1/Tufan-Blox-Bridge
+hookdeck/mcp-events-bridge
+Huldoser/test-inventory-mcp
